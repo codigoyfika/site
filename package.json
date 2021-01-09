@@ -1,5 +1,5 @@
 {
-	"name": "vredeburg",
+	"name": "codigoyfika",
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dafiulh/vredeburg.git"
+		"url": "git+https://github.com/codigoyfika/site.git"
 	},
-	"author": "Dafiul Haq",
+	"author": "Codigo y Fika",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/dafiulh/vredeburg/issues"
+		"url": "https://github.com/codigoyfika/site/issues"
 	},
-	"homepage": "https://github.com/dafiulh/vredeburg#readme",
+	"homepage": "https://github.com/codigoyfika/site#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^0.11.1",
 		"@tailwindcss/typography": "^0.3.1",
