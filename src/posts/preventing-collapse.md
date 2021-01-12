@@ -1,8 +1,11 @@
 ---
-title: "Preventing the collapse of civilization"
+title: "Transcript of Preventing the collapse of civilization"
 date: 2021-01-12T17:51
 thumb: "apollo.jpg"
-tags: talks, software
+tags: 
+  - talks 
+  - software
+  - transcript
 ---
 
 Preventing the collapse of civilizacion is a talk that [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) gave on May 2019 during the DevGamm conference held in Moscow, Russia.
