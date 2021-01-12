@@ -1,30 +1,25 @@
 ---
 layout: default
-title: About Me
+title: Acerca de
 ---
 
 <div class="flex flex-col items-center text-lg">
-    {% if author.avatar %}
-    <a href="{{ author.homepage | url }}" target="_blank" rel="noopener">
-        <img class="w-32 h-32 md:w-40 md:h-40 rounded-full" src="{{ author.avatar | url }}" width="128" height="128" alt="Author avatar">
-    </a>
-    {% endif %}
+    
     <div class="text-center mt-8">
         <h1 class="text-2xl font-medium text-gray-800 leading-relaxed mt-0 mb-1">
-            <a href="{{ author.homepage | url }}" target="_blank" rel="noopener">{{ author.name }}</a>
+            Código y Fika
         </h1>
-        {% if author.email %}
-        <div class="text-gray-600">
-            <a href="mailto:{{ author.email }}">{{ author.email }}</a>
-        </div>
-        {% endif %}
-        {% if author.phone %}
-        <div class="text-gray-600">
-            <a href="tel:{{ author.phone }}">{{ author.phone }}</a>
-        </div>
-        {% endif %}
-        {% if author.bio %}
-        <p class="mt-3 text-gray-700">{{ author.bio }}</p>
-        {% endif %}
+        
+        
+        <p class="mt-3 text-gray-700">
+        Hola!
+        </p>
+        <p class="mt-3 text-gray-700">
+        Somos <a href='https://twitter.com/AnayeliMalvaez'>Anayeli Malvaez</a> y <a href='https://twitter.com/ecamacho'>Erick Camacho</a>, un par de programadores mexicanos 🇲🇽 que vivímos en Suecia 🇸🇪.
+        </p>
+        <p class="mt-3 text-gray-700">
+        Tenemos un <a href='https://www.youtube.com/channel/UC6HWJw_2I5NPa-A_ttuGqGg'>canal de Youtube</a> donde hablamos de temas técnicos y cotidianos.
+        También nos encuentras en <a href='https://twitter.com/codigofika'>Twitter</a>.
+        </p>
     </div>
 </div>
