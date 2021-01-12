@@ -1,8 +1,11 @@
 ---
-title: "Previniendo el colapso de la civilización"
+title: "Transcripción de Previniendo el colapso de la civilización"
 date: 2021-01-09T17:51
 thumb: "apollo.jpg"
-tags: talks, software
+tags: 
+  - talks 
+  - software
+  - transcript
 ---
 
 Previniendo el colapso de la civilización es una charla que [Jonathan Blow](https://es.wikipedia.org/wiki/Jonathan_Blow)  dio en Mayo de 2019 en la conferencia DevGamm en Moscú, Rusia.
