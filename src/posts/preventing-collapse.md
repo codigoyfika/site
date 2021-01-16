@@ -12,7 +12,7 @@ Preventing the collapse of civilizacion is a talk that [Jonathan Blow](https://e
 
 It is a polemic and pretty candid talk about the current state of the Software industry and its possible decline. You can agree or not with Jonathan's arguments, but you can't remain indiferent to them.
 
-With the goal to preserve it, we've transcribed it and added subtitles. If you find any error, feel free to send a Pull Request.
+With the goal to preserve it, we've transcribed it and added subtitles. If you find any error, feel free to send a [Pull Request](https://github.com/codigoyfika/site/blob/main/src/posts/preventing-collapse.md).
 
 We also have translated it to Spanish, you can find the translation [here](/site/previniendo-colapso/).
 

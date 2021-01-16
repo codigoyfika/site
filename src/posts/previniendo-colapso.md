@@ -12,7 +12,7 @@ Previniendo el colapso de la civilización es una charla que [Jonathan Blow](htt
 
 Esta charla es polémica y muy directa, y trata acerca del estado actual de la industria del Software y su posible declive. Podrás estar de acuerdo o no con los argumentos que presenta, pero no podrás permanecer indiferente.
 
-Con el fin de difundirla, la hemos traducido y subitulado al español. Les dejamos el video y más abajo la transcripción. Si encuentras un error en la traducción o alguna mejora, se aceptan Pull Requests.
+Con el fin de difundirla, la hemos traducido y subitulado al español. Les dejamos el video y más abajo la transcripción. Si encuentras un error en la traducción o alguna mejora, se aceptan [Pull Requests](https://github.com/codigoyfika/site/blob/main/src/posts/previniendo-colapso.md).
 
 También hemos puesto los subtitulos y la transcripción en inglés en [este otro post](/site/preventing-collapse).
 
@@ -43,55 +43,58 @@ Entonces, el 6 de Abril de 1961, Yuri Gagarin se convirtió en el primer ser hum
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#29" name="29">link</a><br/>
 <a href="#video" onClick="jumpTo(77)">00:01:17</a><br/>
-Así que a finales de Mayo, 1961, un mes después de ese vuelo, nuestro presidente en esa época, Kennedy, dio un discurso al Congreso diciendo, si queremos alcanzarlos y no estar detrás de ellos siempre, tenemos que hacer algo grande. Tenemos que poner mucho dinero, muchos recursos. Vamos a ir a la Luna. Y esa era una locura. Y, en 1962, reiteró esto en un famoso discurso público y dijo, vamos ir a la Luna antes de que la década termine y era una locura.
+Así que a finales de Mayo, 1961, un mes después de ese vuelo, nuestro presidente en esa época, Kennedy, dio un discurso al Congreso diciendo, si queremos alcanzarlos y no estar detrás de ellos siempre, tenemos que hacer algo grande. Tenemos que poner mucho dinero, muchos recursos. Vamos a ir a la Luna. Y eso era una locura. Y, en 1962, reiteró esto en un famoso discurso público y dijo, vamos ir a la Luna antes de que la década termine y era una locura.
 
 Realmente era una locura porque no habíamos hecho nada remotamente cercano. Pero aquí lo tienen, eventualmente lo hicimos.
 
-El Apollo 11, se lanzó el 16 de Julio de  1969, antes de que terminara la década. Y justo este año salió un muy buen documental sobre la misión.
+El Apollo 11 se lanzó el 16 de Julio de  1969, antes de que terminara la década. Y justo este año salió un muy buen documental sobre la misión.
 
-¿Qué es? Esta hecho de tomas originales tomadas por la NASA durante la misión que habían estado guardadas en armarios y clósets y que fueron restauradas y las usaron para hacer una recreación de como era vivir durante la misión. Les voy a reproducir un extracto del documental. Solo para darles una idea de como era la escala de todo esto.
+¿Qué es? Está hecho de tomas originales tomadas por la NASA durante la misión que habían estado guardadas en armarios y clósets y que fueron restauradas y las usaron para hacer una recreación de cómo era vivir durante la misión. Les voy a reproducir un extracto del documental, solo para darles una idea de la escala de todo esto.
 
-Es muy grande y es una locura que pasamos de nada a todo esto, en algo como 12 años. 
+Es muy grande y es una locura que pasamos de nada a todo esto en algo como 12 años. 
 
-Antes del vuelo del Sputnik, no teníamos un programa espacial en los Estados Unidos, y al final, terminamos con todo esto. Y luego, por supuesto, después de eso continuamos haciendo cosas espaciales.
+Antes del vuelo del Sputnik, no teníamos un programa espacial en los Estados Unidos. Y, al final, terminamos con todo esto. Y luego, por supuesto, después de eso continuamos haciendo cosas espaciales.
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#65" name="65">link</a><br/>
 <a href="#video" onClick="jumpTo(218)">00:03:38</a><br/>
-Construimos el transbordador espacial. Se veía como algo genial, como una nave de ciencia ficción. Podía despegar y aterrizar de vuelta, eso es genial, no? El problema es no todo el transbordador podía aterrizar, como esos tanques en la parte trasera. Y por ello, era muy costoso volarlo y poco confiable. Gente murió en él, en un par de diferentes misiones, así que decidimos dejar de usarlo, por esas razones. Así, que después de eso, si queríamos poner a personas en órbita, teníamos que conseguir un viaje en el Soyuz y a partir de ahí, la trayectoria de nuestro programa espacial se mantuvo en declive. Así que, si hubieras hablado con alguien como yo alrededor del 2002 or 2005, teniamos esta actitud de, ¿no es una lástima? Los Estados Unidos solía hacer estas cosas geniales en el espacio, pero ahora no hacemos nada.
+Construimos el transbordador espacial. Se veía como algo genial, como una nave de ciencia ficción. Podía despegar y aterrizar de vuelta, eso es genial, ¿no? El problema es que no todo el transbordador podía aterrizar, como esos tanques en la parte trasera. Y por ello, era muy costoso volarlo y poco confiable. Gente murió en él en un par de diferentes misiones, así que decidimos dejar de usarlo, por esas razones. Así que, después de eso, si queríamos poner a personas en órbita, teníamos que conseguir un viaje en el Soyuz y, a partir de ahí, la trayectoria de nuestro programa espacial se mantuvo en declive. Así que, si hubieras hablado con alguien como yo alrededor del 2002 or 2005, teniamos esta actitud de, ¿no es una lástima? Los Estados Unidos solía hacer estas cosas geniales en el espacio, pero ahora no hacemos nada.
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#86" name="86">link</a><br/>
 <a href="#video" onClick="jumpTo(267)">00:04:27</a><br/>
 El futuro de ciencia ficción que visualizamos, no va a pasar y no vemos que eso vaya a cambiar, pero ¿qué puedes hacer al respcto? 
 
-Pues, solo encogerte de hombros, ¿correcto? Esa era la actitud de todos. Bueno, no de todos. En algun punto, alguien llegó, que había hecho mucho dinero en un sitio web y dijo: "Ey, quiero hacer algo al respecto. A pesar de no tener experiencia en cohetes espaciales, crearé una compañía para lanzar cohetes y para hacer cosas más grandes de las que hemos hecho".
+Pues, solo encogerte de hombros, ¿correcto? Esa era la actitud de todos. Bueno, no de todos. En algún punto, alguien llegó, que había hecho mucho dinero en un sitio web y dijo: "Ey, quiero hacer algo al respecto. A pesar de no tener experiencia en cohetes espaciales, crearé una compañía para lanzar cohetes y para hacer cosas más grandes de las que hemos hecho".
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#99" name="99">link</a><br/>
 <a href="#video" onClick="jumpTo(299)">00:04:59</a><br/>
-Y aqui hay un extracto de un video acerca de las razones por las que lo hizo. Elon Musk: Acerca de volvernos una especie multiplanetaria y una civilización espacial. No es inevitable. Es muy importante darnos cuenta que no es inevitable. El futuro de la energía sustentable, creo que es prácticamente inevitable, pero el ser una civilización espacial, definitivamente no lo es. Si miras el progreso que tuvimos en el espacio, en 1969 enviamos a alguien a la Luna. 1969. Luego tuvimos el transbordador espacial. 
+Y aqui hay un extracto de un video acerca de las razones por las que lo hizo. 
 
-El transbordador espacial solamente podía llevar personas a la órbita terrestre baja. Luego retiramos el transbordador espacial y los Estados Unidos no podían mandar personas a la órbita. Y esa era la tendencia..
+Elon Musk: "Acerca de volvernos una especie multiplanetaria y una civilización espacial. No es inevitable. Es muy importante darnos cuenta que no es inevitable. El futuro de la energía sustentable, creo que es prácticamente inevitable, pero el ser una civilización espacial, definitivamente no lo es. Si miras el progreso que tuvimos en el espacio, en 1969 envíamos a alguien a la Luna. 1969. Luego tuvimos el transbordador espacial. 
 
-La tendencia iba a la nada. La gente se equivoca cuando piensa que la tecnología automáticamente mejora. No mejora automáticamente. Solo mejora, si mucha gente trabaja muy duro por mejorarla. De hecho, creo que se degrada. Si miras a grandes civilizaciones como el Antiguo Egipto, que pudieron construir las pirámides, ellos olvidaron cómo hacerlo. Y los Romanos, construyeron esos maravillosos acueductos. Olvidaron cómo hacerlo.
+El transbordador espacial solamente podía llevar personas a la órbita terrestre baja. Luego retiramos el transbordador espacial y los Estados Unidos no podían mandar personas a la órbita. Y esa era la tendencia... La tendencia iba a la nada. 
+
+La gente se equivoca cuando piensa que la tecnología automáticamente mejora. No mejora automáticamente. Solo mejora, si mucha gente trabaja muy duro por mejorarla. De hecho, creo que se degrada. 
+
+Si miras a grandes civilizaciones como el Antiguo Egipto, que pudieron construir las pirámides, ellos olvidaron cómo hacerlo. Y los Romanos, construyeron esos maravillosos acueductos. Olvidaron cómo hacerlo."
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#129" name="129">link</a><br/>
 <a href="#video" onClick="jumpTo(384)">00:06:24</a><br/>
-Jonathan: Así que su idea fue muy exitoa y hoy aterrizamos cohetes espaciales y estamos planeando seriamente otra misión a la Luna en 2024. Ya veremos si realmente sucede.
+Jonathan: Así que su idea fue muy exitosa y hoy aterrizamos cohetes espaciales y estamos planeando seriamente otra misión a la Luna en 2024. Ya veremos si realmente sucede.
 
 Pero el hecho de estar hablando seriamente acerca de ella, es ya un gran logro, dada la situación en la que estábamos hace poco. Así que, Elon habló acerca de un par de cosas en el pasado que fueron grandes logros y que se perdieron, quiero mostrar un par más de esos casos para ilustrar que la tecnología automáticamente se degrada.
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#142" name="142">link</a><br/>
 <a href="#video" onClick="jumpTo(412)">00:06:52</a><br/>
-Esto que ven aquí es la copa Lycurgus. Es un reliquía que se encontró y fechada en el imperio romano: 380 AC. Esta hecha de vidrio y este vidrio del que está hecha es el primer nano material conocido en el mundo. El color del vidiro cambia dependiendo de cómo lo mires, y de dónde esté la fuente de luz.
+Esto que ven aquí es la copa Lycurgus. Es un reliquía que se encontró y fechada en el imperio romano: 380 DC. Está hecha de vidrio y este vidrio del que está hecha es el primer nano material conocido en el mundo. El color del vidiro cambia dependiendo de cómo lo mires y de dónde esté la fuente de luz.
 
-Si lo miras estando de pie frente a la copa y con la luz por aquí arriba, de tal forma, que la ves con el reflejo de la luz; entonces, la copa es verde. Pero si la luz atraviesa el vidrio, la copa es roja.
+Si lo miras estando de pie frente a la copa y con la luz por aquí arriba, de tal forma que la ves con el reflejo de la luz, entonces la copa es verde. Pero si la luz atraviesa el vidrio, la copa es roja.
 
-Tenian esto en el 300 DC. Luego, el imperio romano cayó y ese conocimiento se perdió por siempre.
-
+Tenian esto en el 300 DC. Luego, el imperio Romano cayó y ese conocimiento se perdió por siempre.
 
 La forma en que esto funciona fue comprendida alrededor de 1990. El vidrio está impregnado con partículas muy pequeñas de plata y oro. Por muy pequeñas, quiero decir de 50 a 70 nanómetros. Que son tan pequeñas que no se pueden ver con un microscópico físico. Necesitas un microscopio electrónico para verlas. 
 
@@ -100,11 +103,11 @@ Pero en algún momento, el imperio Romano cayó y olvidaron cómo hacerlo. Se re
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#175" name="175">link</a><br/>
 <a href="#video" onClick="jumpTo(494)">00:08:14</a><br/>
-Y si escuchas a gente hablar sobre esta copa hoy, o lees algo al respecto, pueden tener una actitud dismisiva, como "Oh, los estúpidos Romanos no entendían de tecnología.
+Y si escuchas a gente hablar sobre esta copa hoy, o lees algo al respecto, pueden tener una actitud dismisiva, como "Oh, los estúpidos Romanos no entendían de tecnología. Probablemente no sabían que eran la plata y el oro los que lograban ese efecto. Probablemnte fue un accidente e hicieron solamente como cinco copas así" 
 
-Probablemente no sabían que eran la plata y el oro los que lograban ese efecto. Probablemnte fue un accidente e hicieron solamente como cinco copas así" Lo que no tiene sentido alguno. Cualquiera que se dedique a construir cosas y no solo a hablar sobre ellas, sabe que no obtienes un resultado así de bueno sin un proceso constante de iteración y refinamiento. Puedes imaginar que hubo un accidente inicial, quizás alguien quería un vidrio que brillara e intentaron ponerle plata y oro, y notaron un poco de descoloramiento. Y se preguntaron, ¿por qué sucede? Y quizás luego intentaron averiguar más.
+Lo que no tiene sentido alguno. Cualquiera que se dedique a construir cosas y no solo a hablar sobre ellas, sabe que no obtienes un resultado así de bueno sin un proceso constante de iteración y refinamiento. Puedes imaginar que hubo un accidente inicial, quizás alguien quería un vidrio que brillara e intentaron ponerle plata y oro, y notaron un poco de descoloramiento. Y se preguntaron, ¿por qué sucede? Y quizás luego intentaron averiguar más.
 
-Pot ejemplo. ¿qué pasa si cambio las cantidades?. ¿Qué tan grueso debe ser el vidrio? Resultados de ingeniería así de buenos toman mucho tiempo, lo que quiere decir que en Roma había gente haciendo algo que reconocemos hoy en día como Ciencia de Materiales. Luego, eso se perdió. Algo más pasó. Por ejemplo, en el imperio Bizantino, tenían lanzallamas, y no eran pequeños. Tenían recipientes presurizados gigantes en la parte baja de los barcos disparando una sustancia parecida al napalm con tubos metálicos que incineraban los barcos vecinos.
+Por ejemplo. ¿qué pasa si cambio las cantidades?. ¿Qué tan grueso debe ser el vidrio? Resultados de ingeniería así de buenos toman mucho tiempo, lo que quiere decir que en Roma había gente haciendo algo que reconocemos hoy en día como Ciencia de Materiales. Luego, eso se perdió. Algo más pasó. Por ejemplo, en el imperio Bizantino, tenían lanzallamas, y no eran pequeños. Tenían recipientes presurizados gigantes en la parte baja de los barcos disparando una sustancia parecida al napalm con tubos metálicos que incineraban los barcos vecinos.
 
 Era parecido al napalm, en el sentido que el agua no apagaba el fuego. Era un arma muy seria. Era un secreto de estado del imperio Bizantino. La usaron para defender Constantinopla una y otra vez por cientos de años, hasta que un día ya no pudieron hacerlo, por alguna razón y el secreto militar desapareció.
 
@@ -113,20 +116,20 @@ Nadie sabe cómo construirlo. Obviamente, re inventamos los lanzallamas, pero so
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#224" name="224">link</a><br/>
 <a href="#video" onClick="jumpTo(601)">00:10:01</a><br/>
-Este es el mecanismo de Anticitera, nombrado así por la isla griega donde se encontró dentro de un barco hundido. Era un pedazo de metal corroído, o varios pedazos corroídos. Pero, era claro cuando se descubrió originalmente, que tenía engranes.
+Este es el mecanismo de Anticitera, nombrado así por la isla griega donde se encontró dentro de un barco hundido. Era un pedazo de metal corroído o varios pedazos corroídos. Pero, era claro cuando se descubrió originalmente, que tenía engranes.
 
 Con el tiempo, la gente los ha analizado. Se dieron cuenta que es un calendario mecánico que se usaba para saber cosas como en qué año estamos, cuáles son las fases de la Luna, dónde se encuentran los planetas ahora mismo, cuándo son los siguientes juegos Olímpicos. Se ha escaneado lo que queda del mecanismo y se han deducido los engranes que contenía.
 
 Y es muy diferente de lo que yo pensaba. Cuando escuché las ideas acerca de esto, pensé que debían haber tenido pequeños y bonitos engranes en Grecia, que sorpresa. Pero déjenme mostrarles la escala de la reconstrucción generalmente acordada de lo que el dispositivo es.
 
-Esos parecen muchos engranes, ¿cierto? Pero esperen, hay más. Así que la antigua Grecia tenía eso. Pero esa no es la imagen que tenemos hoy de la antigua Grecias, ¿cierto? Y de lo que nos debemos de dar cuenta es que no llegas a eso a partir de nada. No es como un día no conocías los engranes y al siguiente una persona inventa esto. Necesitas un proceso completo de ciencia para crear algo así de sofisticado. Y no sabemos nada sobre ese proceso hoy.
+Esos parecen muchos engranes, ¿cierto? Pero esperen, hay más. Así que la antigua Grecia tenía eso. Pero esa no es la imagen que tenemos hoy de la antigua Grecias, ¿cierto? Y de lo que nos debemos de dar cuenta es que no llegas a eso a partir de nada. No es como que un día no conocías los engranes y al siguiente una persona inventa esto. Necesitas un proceso completo de ciencia para crear algo así de sofisticado. Y no sabemos nada sobre ese proceso hoy.
 
 Todo eso se perdió. Y podría seguir y seguir con más ejemplos. Hay muchas cosas en la historia que son como éstas. Pero no tenemos tiempo.
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#264" name="264">link</a><br/>
 <a href="#video" onClick="jumpTo(752)">00:12:32</a><br/>
-Solo voy a reafirmar que ahora vivimos en un tiempo privilegiado. En el que la tecnología ha estado en buena forma por un largo periodo. La hemos visto mejorar y, por ello, pensamos que el curso natural en la historia es que la tecnología siempre mejora y que estos momentos en la historia son pequeños blips o algo de lo que oímos hablar. Pero no son solo blips. De hecho, el curso normal de la historia mundial es que los grandes logros tecnológicos se pierdan totalmente,porque las civilizaciones que los hicieron colapsan o tienen esta especia de colapso paolatino, en la cual fallan en propagar el conocimiento al futuro. La tecnología va hacia atrás todo el tiempo y no solo en la historia antigua, también en los días modernos, ¿cierto?
+Solo voy a reafirmar que ahora vivimos en un tiempo privilegiado. En el que la tecnología ha estado en buena forma por un largo periodo. La hemos visto mejorar y, por ello, pensamos que el curso natural en la historia es que la tecnología siempre mejora y que estos momentos en la historia son pequeños blips o algo de lo que oímos hablar. Pero no son solo blips. De hecho, el curso normal de la historia mundial es que los grandes logros tecnológicos se pierdan totalmente, porque las civilizaciones que los hicieron colapsan o tienen esta especie de colapso paulatino, en el cual fallan en propagar el conocimiento hacia el futuro. La tecnología va hacia atrás todo el tiempo y no solo en la historia antigua, también en los días modernos, ¿cierto?
 
 Perdemos conocimiento todo el tiempo. Les voy a leer un extracto de una entrevista con Bob Colewell, quien fue el arquitecto en jefe de los microprocesadores en Intel por un tiempo. Pero esta entrevista es de antes de eso.
 
@@ -144,12 +147,12 @@ Así que dice: Rich Lething y yo hicimos un viaje a Texas Instruments en Richard
 <a href="#video" onClick="jumpTo(854)">00:14:14</a><br/>
 "Bien, aqui hay otros errores de los que no saben" Y por cierto, no era solamente TI. Sus componentes no eran peores que los de otros. Los de Motorola no eran buenos. Los de Fairchild no eran buenos. Todos tenían ese problema. Así que le pregunté a TI: ¿Cómo es que toda la industria cayó al mismo tiempo? Nos estamos matando tratando de darle la vuelta a los problemas en tu silicón. 
 
-Y el tipo me contesta, "La primera generación de lógica de transistores fue hecha por los viejos de barba gris, que realmente sabían que estaban haciendo. La nueva generación fue hecha por niños salidos directamente de la escuela que no sabían preguntar lo que el cambio en el empaquetamiemto le haría a los picos inductivos". 
+Y el tipo me contesta, "La primera generación de lógica de transistores fue hecha por los viejos de barba gris que realmente sabían que estaban haciendo. La nueva generación fue hecha por niños salidos directamente de la escuela que no sabían preguntar lo que el cambio en el empaquetamiemto le haría a los picos inductivos". 
 
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#329" name="329">link</a><br/>
 <a href="#video" onClick="jumpTo(890)">00:14:50</a><br/>
-Entonces, cuando cambias el voltaje en lugares en un chip, se genera un campo magnético porque eso es lo que pasa. Y, cuando esos campos interactúan en un chip eso es malo. Así que estos novatos diseñando estos chips no sabían que debían tomar eso como un asunto serio. Y eso es el porque la tecnología se degrada, o al menos es una de las razones, ¿cierto? Requiere mucha energía y esfuerzo comunicar de generación a generación estos hechos importantes que son necesarios para un trabajo competente haciendo tecnología.
+Entonces, cuando cambias el voltaje en lugares en un chip, se genera un campo magnético porque eso es lo que pasa. Y cuando esos campos interactúan en un chip eso es malo. Así que estos novatos diseñando estos chips no sabían que debían tomar eso como un asunto serio. Y eso es el porque la tecnología se degrada, o al menos es una de las razones, ¿cierto? Requiere mucha energía y esfuerzo comunicar de generación a generación estos hechos importantes que son necesarios para un trabajo competente haciendo tecnología.
 
 Y hay pérdidas en ese proceso de comunicación, casi inevitablemente. Y sin esa transferencia generacional de conocimiento, las civilizaciones pueden morir.
 
@@ -420,7 +423,7 @@ A cualquier nivel al que tengamos acceso: Tenemos que simplificar el hardware so
 
 <a href="https://codigoyfika.github.io/site/previniendo-colapso#1341" name="1341">link</a><br/>
 <a href="#video" onClick="jumpTo(3234)">00:53:54</a><br/>
-Ahora mucha gente  probablemente dirá "Ok, lo que sea. El software es complejo, pero no creo que la civilización vaya a colapsar o algo así". Y saben, quizás, quizás contestaría: Si eres un programador, esto te debe importar de cualquier forma, incluso si solo tomas en cuenta tu futuro personal. Los programadores no están felices hoy en día, muy a menudo estamos de mal humor, y la razón de nuestro mal humor es que estamos haciendo cosas estúpidas todo el tiempo en lugar de hacer cosas interesantes. Y eso no mejorará si seguimos haciendo las cosas de la misma forma que las hacemos. 
+Ahora mucha gente probablemente dirá "Ok, lo que sea. El software es complejo, pero no creo que la civilización vaya a colapsar o algo así". Y saben, quizás, quizás contestaría: Si eres un programador, esto te debe importar de cualquier forma, incluso si solo tomas en cuenta tu futuro personal. Los programadores no están felices hoy en día, muy a menudo estamos de mal humor, y la razón de nuestro mal humor es que estamos haciendo cosas estúpidas todo el tiempo en lugar de hacer cosas interesantes. Y eso no mejorará si seguimos haciendo las cosas de la misma forma que las hacemos. 
 
 Así que ustedes personalmente serían más felices si cambiamos la forma en que hacemos las cosas y si hacemos las cosas de la forma que es ahora, quizás el futuro es profundamente mediocre, de la misma forma en que el futuro del programa espacial de Estados Unidos iba a ser profundamente mediocre.
 
